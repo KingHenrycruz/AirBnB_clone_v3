@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 """
-app
+This module contains the principal application
 """
 
 from flask import Flask, jsonify
