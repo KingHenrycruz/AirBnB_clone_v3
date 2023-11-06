@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 """
-index
+This module contains endpoint(route) status
 """
 
 from flask import jsonify
